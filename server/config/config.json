@@ -1,0 +1,6 @@
+{
+  "development": {
+    "url": "postgres://purushotham:pass@localhost:5432/seqlize_voyager",
+    "dialect": "postgres"
+  }
+}
